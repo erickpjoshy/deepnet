@@ -1,0 +1,25 @@
+.sliderimage .imagesl {
+  height: 320px !important;
+}
+.sliderimage h1,
+.section1 h1 {
+  word-spacing: 0px;
+  text-shadow: 2px 1px 4px rgb(255 0 0);
+}
+.sliderimage p,
+.menu-dec,
+.bottom-desc {
+  font-family: 'Kelly Slab', cursive;
+}
+
+.section1 {
+  border: 1px solid #fff;
+}
+@media (max-width: 600px) {
+  .sliderimage .imagesl {
+    height: 300px !important;
+  }
+  .bclass {
+    border-right: 0px !important;
+  }
+}
